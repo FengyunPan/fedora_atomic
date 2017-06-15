@@ -12,6 +12,7 @@
 
     "initramfs-args": ["--no-hostonly", "--add", "iscsi"],
 
+    "install-langs-comment": "Keep this in sync with treecompose-post.sh",
     "install-langs": [
       "pt_BR",
       "fr",
